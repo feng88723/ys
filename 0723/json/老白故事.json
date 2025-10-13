@@ -1,0 +1,57 @@
+{
+  "name": "🎵老白故事",
+  "type": 11,
+  "api": "https://apk-lb-json.fodexin.com",
+  "header": {
+    "Referer": "https://apk-lb.iiszg.com/",
+    "User-Agent": "laobai_tv/1.1.6(Mozilla/5.0 (Linux; Android 9; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36)"
+  },
+  "params":{
+    "rsaKey":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtSwotbu7UEonUCzCsJXPSpYOrkuMnpyk24PBQskkcwYZsUTwbh8Y9vHuPIerh3AfZZ1luFV9yPC282xiNX+/+IAzWHWG6M+dWmJnDyybeUVTh7H7YVM31eSR9TFT4VASr7NftgCv7hfS2mVNL0sxRrMSPSXa6SbjkIeW4GTpYpWKehKfaqrgDwVfFCu67ogL9JLIdDxvWthIe42uUMnz4II1/pdrPtWRu0CDjaxvsLz26UdMGSL3gFEloaJhp4KuIPK4RlIx+9t28H00+3IpeVirmiayDYJQe1cjiDKoERSkLubJRD2yj5X3trGmgXex3QkcRtx5UNXYkLEuEMNGiwIDAQAB"
+  },
+  "categories": [
+    { "name": "百家讲坛", "url": "/json/v1/cat_list/9/index/{{page}}.json" },
+    { "name": "玄幻", "url": "/json/v1/cat_list/46/index/{{page}}.json" },
+    { "name": "恐怖", "url": "/json/v1/cat_list/14/index/{{page}}.json" },
+    { "name": "言情", "url": "/json/v1/cat_list/19/index/{{page}}.json" },
+    { "name": "武侠", "url": "/json/v1/cat_list/11/index/{{page}}.json" },
+    { "name": "历史", "url": "/json/v1/cat_list/15/index/{{page}}.json" },
+    { "name": "侦探", "url": "/json/v1/cat_list/16/index/{{page}}.json" },
+    { "name": "官场", "url": "/json/v1/cat_list/17/index/{{page}}.json" },
+    { "name": "人物", "url": "/json/v1/cat_list/18/index/{{page}}.json" },
+    { "name": "文学", "url": "/json/v1/cat_list/10/index/{{page}}.json" },
+    { "name": "童话", "url": "/json/v1/cat_list/20/index/{{page}}.json" },
+    { "name": "广播剧", "url": "/json/v1/cat_list/36/index/{{page}}.json" },
+    { "name": "亲子", "url": "/json/v1/cat_list/43/index/{{page}}.json" },
+    { "name": "财经", "url": "/json/v1/cat_list/42/index/{{page}}.json" }
+  ],
+  "detail": {
+    "intro": "$.data.synopsis",
+    "author": "$.data.teller",
+    "category": "$.data.type"
+  },
+  "search": {
+    "list": "$.data.books",
+    "name": "$.name",
+    "detailUrl": "/json/v1/cont/{{$.book_id}}.json",
+    "coverUrl": "https://pic.iiszg.com/{{$.pic}}",
+    "tips": "$.status",
+    "params": "{\"book_id\":{{$.book_id}}}",
+    "url": "https://apk-lb-play.fodexin.com/api2/web/index.php/?r=api",
+    "method":"POST",
+    "post":"@js:'params='+ encodeURIComponent(encodeRsa(JSON.stringify({ m: 'search', t: md5(md5('search00')+'1449682949'+Math.round(Math.round(new Date() / 1000) - (Math.round(new Date() / 1000) % 60))).toString(), aid: '0', pid: '0', key: '{{key}}' }),'{{$.rsaKey}}'))+'&version=1.1.6'"
+  },
+  "toc": {
+    "list": "$.data.play_data",
+    "name": "$.name",
+    "params": "{\"book_id\":{{$.book_id}},\"play_id\":{{$.play_id}}}"
+  },
+  "content":{
+    "content":"$.data.url",
+    "url":"https://apk-lb-play.fodexin.com/api2/web/index.php/?r=api",
+    "method":"POST",
+    "post":"@js:'params='+ encodeURIComponent(encodeRsa(JSON.stringify({ m: 'play', t: md5(md5('play{{$.book_id}}{{$.play_id}}')+'1449682949'+Math.round(Math.round(new Date() / 1000) - (Math.round(new Date() / 1000) % 60))).toString(), aid: '{{$.book_id}}', pid: '{{$.play_id}}' }),'{{$.rsaKey}}'))+'&version=1.1.6'"
+  },
+  "searchable": true,
+  "discoverable": true
+}

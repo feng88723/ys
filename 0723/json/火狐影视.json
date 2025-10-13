@@ -1,0 +1,13 @@
+{
+    "作者": "实沈",
+    "站名": "火狐影视",
+    "请求头": "手机",
+    "编码": "UTF-8",
+    "主页url": "https://www.huohutv.net/",
+    "导演": "导演：&&</a>",
+    "主演": "主演：&&</a>",
+    "简介": "剧情：&&</span>",
+    "搜索url": "https://www.huohutv.net/index.php/vod-search-wd-{wd}.html",
+    "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+    "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$60"
+}

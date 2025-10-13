@@ -1,0 +1,17 @@
+{
+    "主页url": "https://huoyanhyh.site/",
+    "数组": "<div style=\"margin-bottom&&class=\"w-full",
+    "直接播放": "1",
+    "图片": "src=\"&&\"",
+    "标题": "text-sm\">&&</a>",
+    "副标题": "bg-opacity-60\">&&</span>",
+    "链接": "href=\"&&\"",
+    "简介": "description\" content=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://huoyanhyh.site/index.php/vod/search/page/{pg}/wd/{wd}.html",
+    "分类url": "https://huoyanhyh.site/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+    "分类二次截取": "<li class=\"my-3\">&&</ul>",
+    "分类数组": "<a&&</a>",
+    "分类标题": ">&&</a>",
+    "分类ID": "/type/id/&&.html"
+}
