@@ -1,0 +1,115 @@
+{
+ 
+"作者": "小可乐/240701/第一版",
+  
+"站名": "爱听音乐网",
+    
+"请求头": "User-Agent$MOBILE_UA",
+
+"编码": "UTF-8",
+
+"图片代理": "0",
+
+"直接播放": "MV#排行#搜索",
+
+"播放请求头": "",
+
+"嗅探词": ".mp4#.m3u8#plug#.mp3",
+
+"过滤词": "",
+
+
+"主页url": "http://www.2t58.com",
+
+"首页": "120",
+
+"起始页": "1",
+
+"分类url": "/{cateId}{by}{class}{letter}/{catePg}.html;;mrc",
+
+"分类": "歌单&歌手&电台&MV&排行",
+
+"分类值": "playtype/index&/singerlist/index/index/index/index&radiolist/index&mvlist/index&list/top",
+
+
+"二次截取": "默认--_list\">&&</ul>||首页--_list\">&&推荐视频",
+
+"数组": "<li>&&</li>",
+
+"标题": "name\">&&</a>",
+
+"图片": "默认--url=&&\"||排行--https://gogopanso.com/assets/item.a270c9b0.png",
+
+"副标题": "爱听音乐网",
+
+"链接": "href=\"&&\"",
+
+
+"影片类型": "sm\">&&</div>",
+
+"简介": "👶+\"info\">&&</div>",
+
+
+"线路二次截取": "",
+
+"线路数组": "play_list\">&&<ul>",
+
+"线路标题": "👶+<h1>&&<",
+
+"播放二次截取": "",
+
+"播放数组": "play_list\">&&</ul>",
+
+"倒序": "0",
+
+"播放列表": "<a&&/a>",
+
+"播放标题": ">&&<",
+
+"播放链接": "href=\"&&\"",
+
+
+"搜索请求头": "User-Agent$MOBILE_UA",
+
+"搜索url": "/so/{wd}/{pg}.html",
+
+"搜索模式": "1",
+
+"搜索后缀": "",
+
+"搜索二次截取": "_list\">&&</ul>",
+
+"搜索数组": "<li>&&</li>",
+
+"搜索标题": "name\">&&</a>",
+
+"搜索图片": "https://gogopanso.com/assets/item.a270c9b0.png",
+
+"搜索副标题": "爱听音乐网",
+
+"搜索链接": "href=\"&&\"",
+
+
+"筛选": {
+"playtype/index":[
+{"key":"cateId","name":"类型","value":[{"n":"全部","v":"playtype/index"},{"n":"DJ","v":"playtype/dj"},{"n":"抖音","v":"playtype/douyin"},{"n":"经典","v":"playtype/jingdian"},{"n":"BGM","v":"playtype/bgm"},{"n":"古风","v":"playtype/gufeng"},{"n":"喊麦","v":"playtype/hanmai"},{"n":"游戏","v":"playtype/youxi"},{"n":"轻音乐","v":"playtype/qingyinle"},{"n":"怀旧","v":"playtype/huaijiu"},{"n":"佛乐","v":"playtype/fule"},{"n":"合唱","v":"playtype/hechang"},{"n":"网络","v":"playtype/wangluo"},{"n":"儿童","v":"playtype/ertong"},{"n":"ACG","v":"playtype/acg"},{"n":"影视","v":"playtype/yingshi"},{"n":"网红","v":"playtype/wanghong"},{"n":"3D","v":"playtype/3d"},{"n":"纯音乐","v":"playtype/chunyinle"},{"n":"KTV","v":"playtype/ktv"},{"n":"乐器","v":"playtype/leqi"},{"n":"翻唱","v":"playtype/fanchang"},{"n":"店铺专用","v":"playtype/dianpu"}]},
+{"key":"cateId","name":"类型","value":[{"n":"全部","v":"playtype/index"},{"n":"伤感","v":"playtype/shanggan"},{"n":"放松","v":"playtype/fangsong"},{"n":"励志","v":"playtype/lizhi"},{"n":"开心","v":"playtype/kaixin"},{"n":"甜蜜","v":"playtype/tianmi"},{"n":"兴奋","v":"playtype/xingfen"},{"n":"安静","v":"playtype/anjing"},{"n":"治愈","v":"playtype/zhiyu"},{"n":"寂寞","v":"playtype/jimo"},{"n":"思恋","v":"playtype/silian"}]}
+],
+"singerlist/index":[
+{"key":"cateId","name":"分类","value":[{"n":"全部","v":"singerlist/index"},{"n":"华语歌手","v":"singerlist/huayu"},{"n":"欧美歌手","v":"singerlist/oumei"},{"n":"韩国歌手","v":"singerlist/hanguo"},{"n":"日本歌手","v":"singerlist/ribrn"}]},
+{"key":"by","name":"性别","value":[{"n":"全部","v":""},{"n":"男","v":"/male"},{"n":"女","v":"/girl"},{"n":"乐队组合","v":"/band"}]},
+{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"流行","v":"/liuxing"},{"n":"电子","v":"/dianzi"},{"n":"摇滚","v":"/yaogun"},{"n":"嘻哈","v":"/xiha"},{"n":"RB","v":"/rb"},{"n":"民谣","v":"/minyao"},{"n":"爵士","v":"/jueshi"},{"n":"古典","v":"/gudian"},{"n":"拉丁","v":"/lading"},{"n":"轻音乐","v":"/qingyinle"},{"n":"乡村","v":"/xiangcun"},{"n":"蓝调","v":"/landiao"}]},
+{"key":"letter","name":"字母","value":[{"n":"全部","v":""},{"n":"A","v":"/a"},{"n":"B","v":"/b"},{"n":"C","v":"/c"},{"n":"D","v":"/d"},{"n":"E","v":"/e"},{"n":"F","v":"/f"},{"n":"G","v":"/g"},{"n":"H","v":"/h"},{"n":"I","v":"/i"},{"n":"J","v":"/j"},{"n":"K","v":"/k"},{"n":"L","v":"/l"},{"n":"M","v":"/m"},{"n":"N","v":"/n"},{"n":"O","v":"/o"},{"n":"P","v":"/p"},{"n":"Q","v":"/q"},{"n":"R","v":"/r"},{"n":"S","v":"/s"},{"n":"T","v":"/t"},{"n":"U","v":"/u"},{"n":"V","v":"/v"},{"n":"W","v":"/w"},{"n":"X","v":"/x"},{"n":"Y","v":"/y"},{"n":"Z","v":"/z"}]}
+],
+"radiolist/index":[
+{"key":"cateId","name":"类型","value":[{"n":"最新","v":"radiolist/index"},{"n":"最热","v":"radiolist/hot"},{"n":"有声小说","v":"radiolist/novel"},{"n":"相声","v":"radiolist/xiangyi"},{"n":"音乐","v":"radiolist/music"},{"n":"情感","v":"radiolist/emotion"},{"n":"国漫","v":"radiolist/game"},{"n":"影视","v":"radiolist/yingshi"},{"n":"脱口秀","v":"radiolist/talkshow"},{"n":"历史","v":"radiolist/history"},{"n":"儿童","v":"radiolist/children"},{"n":"教育","v":"radiolist/education"},{"n":"八卦","v":"radiolist/gossip"},{"n":"推理","v":"radiolist/tuili"},{"n":"头条","v":"radiolist/headline"}]}
+],
+"mvlist/index":[
+{"key":"cateId","name":"类型","value":[{"n":"全部","v":"mvlist/index"},{"n":"华语精选","v":"mvlist/huayu"},{"n":"日韩精选","v":"mvlist/rihan"},{"n":"欧美精选","v":"mvlist/oumei"}]}
+],
+"list/top":[
+{"key":"cateId","name":"类型","value":[{"n":"全部","v":"list/top"},{"n":"DJ舞曲","v":"list/djwuqu"},{"n":"音乐热评","v":"list/share"},{"n":"音乐先锋","v":"list/ndtop"},{"n":"爱听电音","v":"list/hktop"},{"n":"车载歌曲","v":"list/cztop"},{"n":"英国排行","v":"list/ygtop"},{"n":"韩国排行","v":"list/krtop"},{"n":"日本排行","v":"list/jptop"},{"n":"快手热歌","v":"list/kuaishou"}]}
+]
+}
+
+}
