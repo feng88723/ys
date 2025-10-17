@@ -64,7 +64,7 @@
             "key": "云云emby",
             "name": "✨云云|EMBY✨",
             "type": 3,
-            "jar":"./pg.jar",
+            "jar":"./pg简/pg.jar",
             "api": "https://www.mpimg.cn/down.php/31f31b4389836497c7f753d37436b6bb.py",
             "searchable": 1,
             "quickSearch": 1,
