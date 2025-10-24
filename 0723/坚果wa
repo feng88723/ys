@@ -64,7 +64,7 @@
             "key": "云云emby",
             "name": "✨云云|EMBY✨",
             "type": 3,
-            "jar":"./pg简/pg.jar",
+            "jar":"./pg.jar",
             "api": "https://www.mpimg.cn/down.php/31f31b4389836497c7f753d37436b6bb.py",
             "searchable": 1,
             "quickSearch": 1,
@@ -790,7 +790,21 @@
 			"type": 3,
 			"api": "./api/drpy2.min.js",
 			"ext": "./js/瓜子影视.js"
-		},	
+		},
+		{
+			"key": "河马短剧",
+			"name": "🍌河马短剧",
+			"type": 3,
+			"api": "./api/drpy2.min.js",
+			"ext": "./js/河马短剧.js"
+		},
+		{
+			"key": "360影视",
+			"name": "🍌360影视",
+			"type": 3,
+			"api": "./api/drpy2.min.js",
+			"ext": "./js/360影视.js"
+		},
 		{
 			"key": "🌶锦鲤短剧",
 			"name": "🌶锦鲤短剧",
@@ -916,7 +930,7 @@
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
                 "链接": "href=\"&&\"",
-                "副标题": "🍅+other\"><i>&&</i>",
+                "副标题": "🍅+<i>&&</i>",
                 "线路数组": "-ico-player ico-Azhan&&</li>",
                 "线路标题": "🍅+</i>&&<",
                 "播放数组": "videourl clearfix&&</ul>",
@@ -11109,41 +11123,37 @@
     ],
     "lives": [
     {
-      "name": "冰茶",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-        {
-            "name": "冰茶2",
-            "type": 1,
-            "url": "https://fy.188766.xyz/?ip=192.168.31.22&mishitong=true&mima=mianfeidehaimaiqian",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "冰茶3",
+            "name": "冰茶",
             "type": 1,
             "url": "https://188766.xyz/bingcha",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
+    {
+      "name": "冰茶mf",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+ https://2567858%40qq.com:aj29sayqauqmk3a8@dav.jianguoyun.com/dav/le0518/index.js.md5
+     
         {
-            "name": "冰茶4",
+            "name": "migu_video",
             "type": 1,
-            "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian",
+            "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "mur",
+            "name": "migu_video1",
             "type": 1,
-            "url": "https://live.ottiptv.cc/iptv.m3u?userid=7888167576&sign=5ca3ddbe846390f35a0d0cd31a3f500920a1d4f46d98ecd9d68cc8e755e4ce25b7c576cc1cd9c9b2b9ec58073a9a9154b487ef10ae75a15fcbfb531bd443de95635f8f51fc3ba6&auth_token=4a569c27e7861b2f4ddfe1049482f866",
-            "ua": "okHttp/Mod-1.4.0.0"
+            "url": "https://develop202.github.io/migu_video/interface.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "豆豆4",
