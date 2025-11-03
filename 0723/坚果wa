@@ -455,6 +455,27 @@
             "jar": "./pro/jar/vox.jar",
             "api": "https://so.yinpai.xyz/api.php?type=quark"
         },
+        {
+            "key": "百度推送",
+            "name": "✊百度┃推送",
+            "type": 4,
+            "jar": "./pro/jar/vox.jar",
+            "api": "https://so.yinpai.xyz/api.php?type=baidu"
+        },
+        {
+            "key": "天翼推送",
+            "name": "✋天翼┃推送",
+            "type": 4,
+            "jar": "./pro/jar/vox.jar",
+            "api": "https://so.yinpai.xyz/api.php?type=tianyi"
+        },
+        {
+            "key": "123推送",
+            "name": "✌️123┃推送",
+            "type": 4,
+            "jar": "./pro/jar/vox.jar",
+            "api": "https://so.yinpai.xyz/api.php?type=123"
+        },
 		{
 			"key": "ConfigCenter",
 			"name": "🛸 配置中心",
