@@ -23,15 +23,7 @@
 			"changeable": 0,
 			"jar": "https://gitee.com/zmffeng/ys/raw/master/jars/%E6%9C%AC%E5%9C%B0.jar"
 		},
-		{
-			"key": "csp_PanShare",
-			"name": "😊我的┃网盘",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_PanShare",
-			"searchable": 0,
-			"changeable": 0
-		},
+		
 		{
 			"key": "csp_TgDouban",
 			"name": "🥳TG┃豆瓣",
