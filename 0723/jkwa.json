@@ -525,6 +525,18 @@
 			"changeable": 0
 		},
 		{
+            "key": "粉象世界",
+            "name": "🐘粉象┃APP",
+            "type": 3,
+            "jar": "https://gitee.com/zmffeng/ys/raw/master/0412/pro/jar/vox.jar",
+            "changeable": 0,
+            "api": "csp_Appfox",
+            "ext": {
+                "host": "http://121.40.131.51:2556/host.json",
+                "ver": 2
+            }
+        },
+		{
 			"key": "ConfigCenter",
 			"name": "🛸 配置中心",
 			"type": 3,
