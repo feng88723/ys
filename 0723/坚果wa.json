@@ -525,6 +525,18 @@
 			"changeable": 0
 		},
 		{
+            "key": "粉象世界",
+            "name": "🐘粉象┃APP",
+            "type": 3,
+            "jar": "./pro/jar/vox.jar",
+            "changeable": 0,
+            "api": "csp_Appfox",
+            "ext": {
+                "host": "http://121.40.131.51:2556/host.json",
+                "ver": 2
+            }
+        },
+		{
 			"key": "ConfigCenter",
 			"name": "🛸 配置中心",
 			"type": 3,
@@ -758,6 +770,18 @@
 			"changeable": 0
 		},
 		{
+            "key": "粉象世界",
+            "name": "🐘粉象┃APP",
+            "type": 3,
+            "jar":"https://gitee.com/zmffeng/ys/raw/master/0412/pro/jar/vox.jar",
+            "changeable": 0,
+            "api": "csp_Appfox",
+            "ext": {
+                "host": "http://121.40.131.51:2556/host.json",
+                "ver": 2
+            }
+        },
+		{
             "key": "cat_星芽影视",
             "name": "cat_星芽影视",
             "type": 3,
@@ -904,6 +928,17 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		{"key":"T4-qingting","name":"音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t9/qingting.php"},
+		{"key":"T4-yinyue5","name":"音乐-大全(T4)","type":4,"api":"https://catbox.n13.club/t9/yinyue5.php"},
+		{"key":"T4-aha","name":"音乐-啊哈(T4)","type":4,"api":"https://catbox.n13.club/t9/aha.php"},
+    {"key":"T4-2024热门","name":"音乐-热门MV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=2024"},
+    {"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php"},
+
+{"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t9/djuu.php"},
+{"key":"T4-bmtv","name":"B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=bMTV"},
+{"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixs"},
+{"key":"T4-Blixq","name":"B站-戏曲(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixq"},
+{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
 		{
       "key": "miaotv",
       "name": "miaotv",
@@ -1462,6 +1497,69 @@
 				"分类url": "https://www.guohans.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#有声动漫$33#动画片$35#短剧$36#",
 				"类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$24#香港电影$44#动漫电影$45||国产剧$13#香港剧$14#台湾剧$15#日本剧$16#泰国剧$20#韩国剧$21#欧美剧$22#海外剧$23||大陆综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#港台动漫$31#欧美动漫$32#有声动漫$33#海外动漫$34||女频恋爱$37#反转爽剧$38#年代穿越$39#脑洞悬疑$40#现代都市$41#古装仙侠$42#热血剧情$43"
+			}
+		},
+		{
+			"key": "🍅路飞影视",
+			"name": "🍅路飞影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.lufys.com",
+				"数组": "public-list-exp&&</div></div",
+				"标题": "title=\"&&\"",
+				"图片": "data-src=\"&&\"",
+				"副标题":"ft2\">&&<",
+				"链接": "href=\"&&\"",
+                "导演": "🍅+导演：&&</li",
+                "演员": "🍅+主演：&&</li",
+                "简介": "🍅+cor4\">简介：</em>&&</li",
+                "线路数组":"swiper-slide&&</a>",
+				  "线路标题": "&nbsp;&&<+badge\">&&</span",
+				  "播放数组":"anthology-list-play&&</ul",
+				"播放列表": "<a&&</a>",
+				"播放链接": "href=\"&&\"",
+				"播放标题": ">&&</",
+				"搜索url": "https://www.lufys.com/search/page/{pg}/wd/{wd}",
+				"分类url": "https://www.lufys.com/type/{cateId}",
+				"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#"
+			}
+		},
+		{
+			"key": "🍅hongdou",
+			"name": "🍅hongdou",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "http://www.hongdoutv.com",
+				"数组": "lazyload&&</li",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"副标题":"text-right\">&&<",
+				"链接": "href=\"&&\"",
+                "导演": "🍅+导演：&&</p",
+                "演员": "🍅+主演：&&</p",
+                "简介": "🍅+简介：</strong>&&<span",
+                "线路数组":"#con_playlist_&&</li>",
+				  "线路标题": "tab\">&&<",
+				  "播放数组":"macplus-content__playlist&&</ul",
+				"播放列表": "<a&&</a>",
+				"播放链接": "href=\"&&\"",
+				"播放标题": ">&&</",
+				"搜索url": "http://www.hongdoutv.com/vodsearch/{wd}----------{pg}---.html",
+				"分类url": "http://www.hongdoutv.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+				"分类": "热门短剧$3#电影$1#电视剧$2#综艺节目$4#动漫$21#",
+				"类型":"空||动画电影$20#纪录片$23#爱情片$6#动作片$7#喜剧片$8#剧情片$9#科幻片$10#恐怖片$11#战争片$12||TVB港台剧$22#大陆剧$13#美剧$14#日剧$15#韩剧$16||空||空"
 			}
 		},
 		{
@@ -2430,37 +2528,6 @@
 				"播放标题": "🍅+>&&<",
 				"分类url": "https://www.lufys.com/type/{cateId}.html",
 				"分类": "电影$dianying#电视$dianshi#综艺$zongyi#动漫$dongman#短剧$duanju#游戏$youxi#"
-			}
-		},
-		{
-			"key": "🍅路飞影视",
-			"name": "🍅路飞影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "https://www.lufys.com",
-				"数组": "public-list-exp&&</div></div",
-				"标题": "title=\"&&\"",
-				"图片": "data-src=\"&&\"",
-				"副标题":"ft2\">&&<",
-				"链接": "href=\"&&\"",
-                "导演": "🍅+导演：&&</li",
-                "演员": "🍅+主演：&&</li",
-                "简介": "🍅+cor4\">简介：</em>&&</li",
-                "线路数组":"swiper-slide&&</a>",
-				  "线路标题": "&nbsp;&&<+badge\">&&</span",
-				  "播放数组":"anthology-list-play&&</ul",
-				"播放列表": "<a&&</a>",
-				"播放链接": "href=\"&&\"",
-				"播放标题": ">&&</",
-				"搜索url": "https://www.lufys.com/search/page/{pg}/wd/{wd}",
-				"分类url": "https://www.lufys.com/type/{cateId}",
-				"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#"
 			}
 		},
 		{

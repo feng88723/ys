@@ -92,42 +92,6 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "玩偶哥哥",
-            "name": "免扫HDR4k网盘",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_Wogg",
-            "jar": "https://gitee.com/zmffeng/ys/raw/master/0412/jar/3.jar",
-            "ext": {
-                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-                "cookie": "http://14.103.129.80:999/暗黑4k奇迹/lib/ck.txt",
-                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-                "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
-                "site": "https://wogg.xxooo.cf/"
-            }
-        },
-        {
-            "key": "虎斑",
-            "name": "免扫虎斑4k网盘",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_Mogg",
-            "jar": "https://gitee.com/zmffeng/ys/raw/master/0412/jar/3.jar",
-            "ext": {
-                "tyitoken": "http://14.103.129.80:999/暗黑4k奇迹/lib/ty.txt",
-                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-                "cookie": "http://14.103.129.80:999/暗黑4k奇迹/lib/ck1.txt",
-                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-                "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
-                "site": "http://103.45.162.207:20720/"
-            }
-        },
 		{
 			"key": "csp_TgDouban",
 			"name": "🥳TG┃豆瓣",
@@ -668,6 +632,17 @@
 			"api": "csp_XBPQ",
 			"ext": "./json/深港音乐汇mp3.json"
 		},
+		{"key":"T4-qingting","name":"音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t9/qingting.php"},
+		{"key":"T4-yinyue5","name":"音乐-大全(T4)","type":4,"api":"https://catbox.n13.club/t9/yinyue5.php"},
+		{"key":"T4-aha","name":"音乐-啊哈(T4)","type":4,"api":"https://catbox.n13.club/t9/aha.php"},
+    {"key":"T4-2024热门","name":"音乐-热门MV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=2024"},
+    {"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php"},
+
+{"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t9/djuu.php"},
+{"key":"T4-bmtv","name":"B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=bMTV"},
+{"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixs"},
+{"key":"T4-Blixq","name":"B站-戏曲(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixq"},
+{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
 		{
 			"key": "哔哩哔哩戏曲",
 			"name": "哔哩｜音乐",
