@@ -3,12 +3,6 @@
         "name": "常用壳",
         "list": [
             {
-                "name": "ok影视手机版",
-                "url": "http://xz.rihou.cc:88/xz.apk?id=OKSJ64.apk",
-                "icon": "https://d.dayeapp.net/y.jpg",
-                "version": "64位"
-            },
-            {
                 "name": "OK影视电视版",
                 "url": "http://xz.rihou.cc:88/xz.apk?id=OKTV32.apk",
                 "icon": "https://d.dayeapp.net/y.jpg",
@@ -19,6 +13,12 @@
                 "url": "http://xz.rihou.cc:88/xz.apk?id=OKTV64.apk",
                 "icon": "https://d.dayeapp.net/y.jpg",
                 "version": "64位"
+            },
+            {
+                "name": "PeekPili",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=PeekPili.apk",
+                "icon": "https://ricolj.github.io/tp/PeekPili.png",
+                "version": "手机版"
             },
             {
                 "name": "IPTVPRO",
