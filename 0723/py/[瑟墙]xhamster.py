@@ -16,7 +16,7 @@ class Spider(Spider):
         self.headers['referer'] = f'{self.host}/'
         self.session = Session()
         self.session.headers.update(self.headers)
-        pass
+        self.session.verify = False
 
     def getName(self):
         pass
@@ -211,7 +211,9 @@ class Spider(Spider):
 
     def getpq(self, path=''):
         h = '' if path.startswith('http') else self.host
-        response = self.session.get(f'{h}{path}')
+        url = f'{h}{path}'
+        proxies = self._get_proxies(url)
+        response = self.session.get(url, proxies=proxies)
         return pq(response.content)
 
 
