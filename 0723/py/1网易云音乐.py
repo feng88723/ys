@@ -1,13 +1,3 @@
-"""
-@header({
-  searchable: 1,
-  filterable: 1,
-  quickSearch: 1,
-  title: '网易云音乐',
-  lang: 'hipy'
-})
-"""
-
 import sys
 import json
 import re
