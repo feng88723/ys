@@ -1,0 +1,91 @@
+{
+  "lives": [
+    
+    {
+      "name": "咪咕720",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Referer": "",
+        "cookie": ""
+      },
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "裤佬",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "header": {
+        "Referer": "https://www.kds.tw/"
+      },
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+    {
+      "name": "catvod",
+      "url": "https://live.catvod.com/tv.m3u",
+      "header": {
+        "User-Agent": "Goiptv/8.8.8",
+        "Referer": "https://live.catvod.com/"
+      }
+    },
+    {
+      "name": "网络直播",
+      "url": "https://m.iill.top/Live.m3u",
+      "header": {
+        "User-Agent": "okhttp/5.1.0",
+        "Referer": "https://m.iill.top/"
+      }
+    },
+    {
+      "name": "肥羊直播",
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=5057339410&sign=f31937b555cacbd7f720f7ec50b524820779d19a6d44482852a447071ebcaf24df8c92e24472e82313a8d395d78ed8682210a8ec6ad2e17584925620a637c8d2b69bbae74af846&auth_token=bf61eef1e2b31c162f6483d2de30cf51",
+      "header": {
+        "User-Agent": "okHttp/Mod-1.4.0.0"
+      }
+    },
+    {
+      "name": "虎牙",
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://sub.ottiptv.cc/"
+      }
+    },
+    {
+      "name": "斗鱼",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://sub.ottiptv.cc/"
+      }
+    },
+    {
+      "name": "yy轮播",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://sub.ottiptv.cc/"
+      }
+    },
+    {
+      "name": "哔哩哔哩",
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://sub.ottiptv.cc/"
+      }
+    },
+    {
+      "name": "黄色",
+      "url": "https://down.nigx.cn/mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Referer": "",
+        "cookie": ""
+      },
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    }
+  ]
+}
