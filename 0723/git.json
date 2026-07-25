@@ -51,6 +51,13 @@
 			"homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
 		},
 		{
+			"key": "tmdb电视基础播放版",
+			"name": "🎿tmdb电视基础播放版",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "./html/tmdb电视基础播放版.html"
+		},
+		{
 			"key": "csp_TgDouban",
 			"name": "🥳[搜]TG┃豆瓣",
 			"type": 3,
@@ -113,6 +120,31 @@
 				"sites": "https://www.xn--wcv59z.com/",
 				"proxy": "noproxy"
 			}
+		},
+		{
+			"key": "csp_Xxzn",
+			"name": "🤑指南┃[网盘]",
+			"type": 3,
+			"jar": "./pro/jar/vox.jar",
+			"api": "csp_Xxzn",
+			"filterable": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"timeout": 60,
+			"ext": {
+				"filters": "./pro/json/xxzn.json",
+				"sites": "https://4kzn.cc"
+			}
+		},
+		{
+			"key": "csp_HDmoli",
+			"name": "🐶HDmoli┃[网盘]",
+			"type": 3,
+			"jar": "./pro/jar/vox.jar",
+			"api": "csp_HDmoli",
+			"timeout": 60,
+			"searchable": 1,
+			"changeable": 0
 		},
 		{
 			"key": "csp_Wogg",
@@ -5574,6 +5606,15 @@
 				"分类": "台北$taipei#桃园$taoyuan#高雄$kaohsiung#台中$taichung#",
 				"分类url": "https://radio-taiwan.tw/{cateId}?page={catePg}"
 			}
+		},
+		{
+			"key": "🌶悦听吧",
+			"name": "🌶悦听吧",
+			"type": 3,
+			"api": "./py/悦听吧.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "三三言情",
