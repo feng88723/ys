@@ -14,6 +14,35 @@
 			"indexs": 1,
 			"ext": "./json/tokenm.json"
 		},
+		
+		{
+			"key": "对魔忍",
+			"name": "🔞对魔忍",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/对魔忍.json"
+		},
+		{
+			"key": "房中秘术",
+			"name": "🔞房中秘术",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/房中秘术.json"
+		},
+		{
+			"key": "自慰笔记",
+			"name": "🔞自慰笔记",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/自慰笔记.json"
+		},
+		{
+			"key": "榨汁姐姐",
+			"name": "🔞榨汁姐姐",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/榨汁姐姐.json"
+		},
 		{
 			"key": "🌶黄豆短剧",
 			"name": "🌶黄豆短剧",
