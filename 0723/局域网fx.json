@@ -41,8 +41,15 @@
 			"name": "🎿哔哩哔哩",
 			"type": 3,
 			"api": "csp_Nostr",
-			"homePage": "./html/哔哩哔哩.html"
+			"homePage": "https://d.kstore.dev/download/8699/0412/html/哔哩哔哩.html"
 		},
+		{
+      "key": "音乐满血",
+      "name": "音乐满血",
+      "type": 3,
+      "api": "csp_Nostr",
+      "homePage": "https://d.kstore.dev/download/8699/0412/html/%E9%9F%B3%E4%B9%90%E6%BB%A1%E8%A1%80.html"
+    },
 		{
 			"key": "Nostr",
 			"name": "🎿WebHome┃专用",
@@ -55,7 +62,7 @@
 			"name": "🎿tmdb电视基础播放版",
 			"type": 3,
 			"api": "csp_Nostr",
-			"homePage": "./html/tmdb电视基础播放版.html"
+			"homePage": "https://d.kstore.dev/download/8699/0412/html/tmdb电视基础播放版.html"
 		},
 		{
 			"key": "csp_TgDouban",
@@ -154,7 +161,7 @@
 		},
 		{
 			"key": "欧歌网盘",
-			"name": "🤪欧歌┃[网盘]",
+			"name": "⚜️欧歌┃[网盘]",
 			"type": 3,
 			"jar": "./pro/jar/vox.jar",
 			"api": "csp_Wobg",
@@ -359,7 +366,7 @@
 			"key": "KZN",
 			"name": "🐟┆指南┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_KZN",
 			"searchable": 1,
 			"changeable": 1
@@ -368,7 +375,7 @@
 			"key": "PanWebShare123",
 			"name": "🐟┆123┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_PanWebShare123",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -390,7 +397,7 @@
 			"key": "PanWebShareGuangYa",
 			"name": "🐟┆光鸭┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_PanWebShareGuangYa",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -411,7 +418,7 @@
 			"key": "YunDuo",
 			"name": "🐟┆云朵┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_YunDuo",
 			"searchable": 1,
 			"changeable": 1,
@@ -421,7 +428,7 @@
 			"key": "CupFox",
 			"name": "🐟┆茶杯┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_CupFox",
 			"searchable": 1,
 			"changeable": 1,
@@ -431,7 +438,7 @@
 			"key": "FengYe",
 			"name": "🐟┆枫叶┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_CupFox",
 			"searchable": 1,
 			"changeable": 1,
@@ -442,7 +449,7 @@
 			"key": "Qiwei",
 			"name": "🐟┆七味┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_Qiwei",
 			"searchable": 1,
 			"filterable": 0,
@@ -462,7 +469,7 @@
 			"key": "ShuangXing",
 			"name": "🐟┆双星┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_ShuangXing",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -476,7 +483,7 @@
 			"key": "DianYingYunJi",
 			"name": "🐟┆云集┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_DianYingYunJi",
 			"searchable": 1,
 			"changeable": 1
@@ -485,7 +492,7 @@
 			"key": "FishLabi",
 			"name": "🐟┆蜡笔┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_FishCloud",
 			"searchable": 1,
 			"ext": {
@@ -504,7 +511,7 @@
 			"key": "FishDuoduo",
 			"name": "🐟┆多多┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_FishCloud",
 			"searchable": 1,
 			"ext": {
@@ -519,7 +526,7 @@
 			"key": "FishHuban",
 			"name": "🐟┆虎斑┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_FishCloud",
 			"searchable": 1,
 			"ext": {
@@ -533,7 +540,7 @@
 			"key": "BuBu",
 			"name": "🐟┆布布┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_BuBu",
 			"searchable": 1,
 			"changeable": 1,
@@ -543,7 +550,7 @@
 			"key": "huaisang",
 			"name": "🐟┆怀桑┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_AppQi",
 			"searchable": 1,
 			"changeable": 1,
@@ -553,7 +560,7 @@
 			"key": "枫眠",
 			"name": "🐟┆枫眠┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_App88",
 			"ext": "AdzbT8Ti+fGJ2PrJDEahdT7+zU3sFruyF0fAaUTWAUOCrbG/s0KhC5zQusyXAkmDYai/yhecQAtwKkDfTqbVCQT15T0FDK1GX9GLxT9V3XyFRDT0ATcwcFfw5joxSB+YLlez1nGpT2AW5KomI3yNv3ORTd4B3NqAcM34Cioc6+xwfj3HJ4JO6kQvv4solNApeP7CqF/Ecpt1BCgvvPzswMOr+kgVG/Iu8btrVQFO+pRpY7cfpc/Y59ZqaJlrCTDNLxgwuG20RZ9gVWsW+vd3A9lRgeTiJ39vJPoK46+9LnYGWU9dlDR1qRg4y5ILVQjEnT4el2cKSZexf7nrXHVfF3nOmHH/w/R/OSGllwUB7FCHDMc7eDY7haDYHWAQpEmcn4+BfbC4cipsdZ+nVieVVuuaWSF9s+0xYPWdSYLJMxApplTYkO+/h5z9atdURJUMGQ=="
 		},
@@ -561,7 +568,7 @@
 			"key": "悯善",
 			"name": "🐟┆悯善┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_App88",
 			"ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
 		},
@@ -569,7 +576,7 @@
 			"key": "长泽",
 			"name": "🐟┆长泽┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_App88",
 			"ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
 		},
@@ -578,7 +585,7 @@
 			"name": "🐟┆清沅┆4K",
 			"api": "csp_AppNox",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"ext": "ASjKEhQKe/DZHt0fbLID47aB3aYcWUG5aIPwrmTCgGinaSykux5CZpbz57zl1moRZGFkoEXqk7decpKNU6W/p/6OTfj3JWvZtr89yPZSxNyjJm1Il5upXQT68sXR/0WG392H71MN7Q8NC8xkSOuwAq7EfX2cuHMsiqFeCCugzAiINUiEqvboCFdXiI97C6kqqqiaQIS9d+R1r7krr5vQXWtky7XJNsiK5ACjppyTh68cbONYIcgLp5Kg5woh/wj9xmNT6mFGqF2D3j2RUaLoWYf+K1+ltBiuzZ7THWKwrnpBBig8XUAG3lXNXiFhPILyYWfr+1j/UoInhNITzJJ+SSRc88KmOk5kpch+idGzVMzHIq/bLpRRxE0iV8Qdtc2atKF9QUqPXJLrwv21Dl+nxgPEGOZ+71L+gABeQdvXO7xvyzUnd+rOidPJr1mBsfu9ySbcqHkhL5EIEQpGHwRhG/yN3Y5xj0BU+SdSxnDo+CwMC+g+WCts34c2u8h2tz7G5vuTw8QvDF23kF/BZeD2QaoCBAd3SDG9ObAichfuO1nDa938+Ul+iekNOEPtPFr6k5o+px/JJkE7MKYhekE/2JfmIkbkBHdnewJYckdM37/9EKsnAozbDyFKhfKR06Es52KtuAhGyh1B8uyfsj33qFpreAqGam8kjEHdYA0i832o0BtTU2gS3mf3NoijVH/XNmlJRuNXo9yYxdjuip4Eq4iqIgajM16MGAIJ0rumYhxJ5uJUFDlf55b9iS+DvJ8wotnBvfdINpAaeXPPlVc/1JDp1rIOw0qg2XIRAafLL7kzXnW8djs2dPSQU1+j9LIrfQ6u3k4lqUs9gRMW1JhwC/4iqimnwg0KsVValaplt+fxFHhwCCkS45uLf8BaY+UZtp5ZDffbi3Q0EDAK8F210Bzd5l8W8MokURUSj374Z7y2hAROBAAgZ8qWRrFOmBC+I+LUCm7sV4h7Mwdpe8sDAtxBhxOpBAYyV8eACQsDbnQsBvizlafy16ptRrArViG0uB1VSPqvi8gqcFD1zMl+uRo="
 		},
 		{
@@ -1548,8 +1555,6 @@
 				"分类url": "https://www.utasbbs.com/3zxhNRf/{cateId}-{catePg}.html"
 			}
 		},
-		
-		
 		{
 			"key": "🍅西瓜影院",
 			"name": "🍅西瓜影院",
@@ -1560,7 +1565,7 @@
 				"主页": "https://www.utasbbs.com",
 				"数组": "p:.newmodel-col-xs-4",
 				"链接": "p:->href",
-				"图片": "p:background-image:url",
+				"图片": "p:->style[替换:background-image:url(>>空#)>>]",
 				"标题": "p:->title",
 				"副标题": "p:.date-time->text",
 				"线路数组": "p:.ewave-tab",
@@ -1574,9 +1579,10 @@
 				"分类url": "https://www.utasbbs.com/3zxhNRf/{cateId}-{catePg}.html"
 			}
 		},
+		
 		{
 			"key": "by24h",
-			"name": "🎃by24h",
+			"name": "⚜️by24h[漫剧]",
 			"type": 3,
 			"jar": "./jars/新XBPQ.jar",
 			"api": "csp_XBPQ",
@@ -1586,21 +1592,22 @@
 				"链接": "p:->href",
 				"图片": "p:->src",
 				"标题": "p:->title",
-				
-				"线路数组": "p:.stui-tabs ul",
-				"线路标题": "p:->text",
+				"线路数组": "p:.stui-tabs li",
+				"线路标题": "p:->text[不包含:集]",
 				"播放数组": "p:.stui-content__playlist",
 				"倒序": "0",
 				"播放列表": "p:a",
 				"播放标题": "p:->text",
 				"播放链接": "p:->href",
+				 "跳转播放链接": "<mip-iframe*url=&&\"",
+				
 				"分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8#",
 				"分类url": "https://by24h.com/dj/{cateId}-{catePg}.html"
 			}
 		},
 		{
 			"key": "🍅by24h",
-			"name": "🍅by24h",
+			"name": "🍅by24h[漫剧]",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1613,26 +1620,105 @@
 				"数组": "stui-vodlist__item&&</li",
 				"标题": "title=\"&&\"",
 				"图片": "src=\"&&\"",
-				"副标题":"text-right\">&&<",
+				"副标题": "text-right\">&&<",
 				"链接": "href=\"&&\"",
-                "导演": "🍅+导演：&&</p",
-                "演员": "🍅+主演：&&</p",
-                "简介": "🍅+pic-text\">&&</",
-                "线路二次截取":"stui-pannel active&&</ul>",
-                "线路数组":"<li&&</li",
-				  "线路标题": ">&&<",
-				  "播放数组":"stui-content__playlist&&</ul",
+				"导演": "🍅+导演：&&</p",
+				"演员": "🍅+主演：&&</p",
+				"简介": "🍅+pic-text\">&&</",
+				"线路二次截取": "stui-pannel active&&</ul>",
+				"线路数组": "<li&&</li",
+				"线路标题": ">&&<",
+				"播放数组": "stui-content__playlist&&</ul",
 				"播放列表": "<a&&</a>",
 				"播放链接": "href=\"&&\"",
 				"播放标题": ">&&</",
+				"跳转播放链接": "<mip-iframe*url=&&\"",
 				"搜索url": "https://by24h.com/search.php?page={pg}&searchword={wd}&searchtype=",
 				"分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8#",
 				"分类url": "https://by24h.com/dj/{cateId}-{catePg}.html"
 			}
 		},
 		{
+            "key": "犀牛短剧",
+            "name": "犀牛短剧",
+            "type": 3,
+            "jar": "./jars/新XBPQ.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页": "https://by24h.com",
+                "数组": "p:.stui-vodlist__item",
+                "链接": "p:->href",
+                "图片": "p:->src",
+                "标题": "p:->title",
+                "线路数组": "p:.stui-tabs li",
+                "线路标题": "p:->text[不包含:集]",
+                "播放数组": "p:.stui-content__playlist",
+                "倒序": "0",
+                "播放列表": "p:a",
+                "播放标题": "p:->text",
+                "播放链接": "p:->href",
+                "跳转播放链接": "<mip-iframe*url=&&\"",
+                "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8#",
+                "分类url": "https://by24h.com/dj/{cateId}-{catePg}.html"
+            }
+        },
+		{
+			"key": "🍅sctzjd",
+			"name": "🍅sctzjd[漫剧]",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"主页url": "https://www.sctzjd.com",
+				"数组": "fed-list-pics&&</li",
+				"标题": "fed-part-eone*>&&<",
+				"图片": "data-original=\"&&\"",
+				"副标题":"fed-text-center\">&&<",
+				"链接": "href=\"&&\"",
+                "导演": "🍅+导演：&&</p",
+                "演员": "🍅+主演：&&</p",
+                
+                "线路数组":"fed-tabs-btn&&</a>",
+				  "线路标题": ">&&</a",
+				  "播放数组":"fed-tabs-btm&&</ul",
+				"播放列表": "<a&&</a>[不包含:APP]",
+				"播放链接": "href=\"&&\"",
+				"播放标题": ">&&</",
+				
+				"分类url": "https://www.sctzjd.com/show/{cateId}/page/{catePg}.html",
+				"分类": "电影$1#电视剧$2#综艺$5#AI漫剧$47#短剧$3#网飞$48#"
+			}
+		},
+		{
+			"key": "jcgonzal",
+			"name": "⚜️jcgonzal[漫剧]",
+			"type": 3,
+			"jar": "./jars/新XBPQ.jar",
+			"api": "csp_XBPQ",
+			"ext": {
+				"主页": "https://www.jcgonzalez.net/tv/47.html",
+				"数组": "p:.col8",
+				"链接": "p:->href",
+				"图片": "p:->data-original",
+				"标题": "p:->title",
+				"线路数组": "p:.panel-hd h3[必含:路]",
+				"线路标题": "p:->text",
+				"播放数组": "p:.shoutu-playlist",
+				"倒序": "0",
+				"播放列表": "p:a",
+				"播放标题": "p:->text",
+				"播放链接": "p:->href",
+				"分类": "电影$1#电视剧$2#短剧$3#AI漫剧$47#动漫$4#综艺$5#",
+				"分类url": "https://www.jcgonzalez.net/tv/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}.html"
+			}
+		},
+		{
 			"key": "hanyuxn",
-			"name": "🎃hanyuxn",
+			"name": "⚜️hanyuxn[漫剧]",
 			"type": 3,
 			"jar": "./jars/新XBPQ.jar",
 			"api": "csp_XBPQ",
@@ -1650,7 +1736,7 @@
 				"播放列表": "p:a",
 				"播放标题": "p:->text",
 				"播放链接": "p:->href",
-				"搜索url":"https://www.hanyuxny.com/vodsearch/{wd}----------{pg}---.html",
+				"搜索url": "https://www.hanyuxny.com/vodsearch/{wd}----------{pg}---.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#漫剧$55#短剧$20#动画片$35#Netflix作品$37#4K电影$48#",
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#香港片$45#战争片$12#纪录片$21||国产剧$13#港剧$14#台剧$15#日剧$16#韩剧$22#泰剧$23#美剧$24#海外剧$25||大陆综艺$26#日韩综艺$27#港台综艺$28#欧美综艺$29||国产动漫$30#日韩动漫$31#港台动漫$32#欧美动漫$33#海外动漫$34#有声动漫$38||空||女频恋爱$39#反转爽剧$40#脑洞悬疑$41#古装仙侠$42#年代穿越$43#热血短剧$36#现代都市$44||空||Netflix电影$46#Netflix自制剧$47||空||",
 				"分类url": "https://www.hanyuxny.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html"
@@ -1658,7 +1744,7 @@
 		},
 		{
 			"key": "cnmachen",
-			"name": "🎃cnmachen",
+			"name": "⚜️cnmachen[漫剧]",
 			"type": 3,
 			"jar": "./jars/新XBPQ.jar",
 			"api": "csp_XBPQ",
@@ -1676,7 +1762,7 @@
 				"播放列表": "p:a",
 				"播放标题": "p:->text",
 				"播放链接": "p:->href",
-				"搜索url":"https://www.cnmacheng.com/search/page/{pg}/wd/{wd}.html",
+				"搜索url": "https://www.cnmacheng.com/search/page/{pg}/wd/{wd}.html",
 				"分类": "电影$1#电视剧$2#短剧$3#动漫$4#漫剧$47#综艺$5#网飞电影$49#网飞自制剧$50#",
 				"类型": "剧情片$6#动作片$7#冒险片$8#喜剧片$9#奇幻片$10#恐怖片$11#悬疑片$16#惊悚片$17||国产剧$12#港剧$13#韩剧$14#日剧$15#泰剧$23#台剧$24#欧美剧$25#新马剧$26||总裁短剧$41#神豪短剧$42#穿越重生短剧$43#都市短剧$44#年代短剧$45#长篇剧场$46||国产动漫$36#日本动漫$37#韩国动漫$38#欧美动漫$39#港台动漫$40||空||国产综艺$30#港台综艺$31#韩国综艺$32#日本综艺$33#欧美综艺$35||空||空||",
 				"分类url": "https://www.cnmacheng.com/webtv/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}.html"
@@ -5607,7 +5693,7 @@
 			"key": "Buguyy",
 			"name": "🐟🐦┆布谷┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_Buguyy",
 			"searchable": 1,
 			"filterable": 1,
@@ -5617,7 +5703,7 @@
 			"key": "ChuXin",
 			"name": "🐟💕┆初心┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_ChuXin",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -5627,7 +5713,7 @@
 			"key": "aiting",
 			"name": "🐟🎧┆爱听┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_AiTingMusic",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -5637,7 +5723,7 @@
 			"key": "Music24bit",
 			"name": "🐟🎼┆无损┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_Music24bit",
 			"searchable": 1,
 			"changeable": 1,
@@ -5811,6 +5897,17 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+    {
+      "key": "push_agent",
+      "name": "💌┆推送┆接收",
+      "type": 3,
+      "jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
+      "api": "csp_Push",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "timeout": 60
+    },
 		{
 			"key": "暴风影院",
 			"name": "暴风影院(🔥)",

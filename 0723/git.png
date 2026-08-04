@@ -41,14 +41,14 @@
 			"name": "🎿哔哩哔哩",
 			"type": 3,
 			"api": "csp_Nostr",
-			"homePage": "./html/哔哩哔哩.html"
+			"homePage": "https://d.kstore.dev/download/8699/0412/html/哔哩哔哩.html"
 		},
 		{
       "key": "音乐满血",
       "name": "音乐满血",
       "type": 3,
       "api": "csp_Nostr",
-      "homePage": "./html/音乐满血.html"
+      "homePage": "https://d.kstore.dev/download/8699/0412/html/%E9%9F%B3%E4%B9%90%E6%BB%A1%E8%A1%80.html"
     },
 		{
 			"key": "Nostr",
@@ -62,7 +62,7 @@
 			"name": "🎿tmdb电视基础播放版",
 			"type": 3,
 			"api": "csp_Nostr",
-			"homePage": "./html/tmdb电视基础播放版.html"
+			"homePage": "https://d.kstore.dev/download/8699/0412/html/tmdb电视基础播放版.html"
 		},
 		{
 			"key": "csp_TgDouban",
@@ -371,20 +371,18 @@
 				"comment": ""
 			}
 		},
-		
-		
 		{
 			"key": "FishConfig1",
 			"name": "🐟┆设置┆中心1",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_FishConfig"
 		},
 		{
 			"key": "KZN",
 			"name": "🐟┆指南┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_KZN",
 			"searchable": 1,
 			"changeable": 1
@@ -393,7 +391,7 @@
 			"key": "PanWebShare123",
 			"name": "🐟┆123┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_PanWebShare123",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -415,7 +413,7 @@
 			"key": "PanWebShareGuangYa",
 			"name": "🐟┆光鸭┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_PanWebShareGuangYa",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -436,7 +434,7 @@
 			"key": "YunDuo",
 			"name": "🐟┆云朵┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_YunDuo",
 			"searchable": 1,
 			"changeable": 1,
@@ -446,7 +444,7 @@
 			"key": "CupFox",
 			"name": "🐟┆茶杯┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_CupFox",
 			"searchable": 1,
 			"changeable": 1,
@@ -456,7 +454,7 @@
 			"key": "FengYe",
 			"name": "🐟┆枫叶┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_CupFox",
 			"searchable": 1,
 			"changeable": 1,
@@ -467,7 +465,7 @@
 			"key": "Qiwei",
 			"name": "🐟┆七味┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_Qiwei",
 			"searchable": 1,
 			"filterable": 0,
@@ -487,7 +485,7 @@
 			"key": "ShuangXing",
 			"name": "🐟┆双星┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_ShuangXing",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -501,7 +499,7 @@
 			"key": "DianYingYunJi",
 			"name": "🐟┆云集┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_DianYingYunJi",
 			"searchable": 1,
 			"changeable": 1
@@ -510,7 +508,7 @@
 			"key": "FishLabi",
 			"name": "🐟┆蜡笔┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_FishCloud",
 			"searchable": 1,
 			"ext": {
@@ -529,7 +527,7 @@
 			"key": "FishDuoduo",
 			"name": "🐟┆多多┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_FishCloud",
 			"searchable": 1,
 			"ext": {
@@ -544,7 +542,7 @@
 			"key": "FishHuban",
 			"name": "🐟┆虎斑┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_FishCloud",
 			"searchable": 1,
 			"ext": {
@@ -558,7 +556,7 @@
 			"key": "BuBu",
 			"name": "🐟┆布布┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_BuBu",
 			"searchable": 1,
 			"changeable": 1,
@@ -568,7 +566,7 @@
 			"key": "huaisang",
 			"name": "🐟┆怀桑┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_AppQi",
 			"searchable": 1,
 			"changeable": 1,
@@ -578,7 +576,7 @@
 			"key": "枫眠",
 			"name": "🐟┆枫眠┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_App88",
 			"ext": "AdzbT8Ti+fGJ2PrJDEahdT7+zU3sFruyF0fAaUTWAUOCrbG/s0KhC5zQusyXAkmDYai/yhecQAtwKkDfTqbVCQT15T0FDK1GX9GLxT9V3XyFRDT0ATcwcFfw5joxSB+YLlez1nGpT2AW5KomI3yNv3ORTd4B3NqAcM34Cioc6+xwfj3HJ4JO6kQvv4solNApeP7CqF/Ecpt1BCgvvPzswMOr+kgVG/Iu8btrVQFO+pRpY7cfpc/Y59ZqaJlrCTDNLxgwuG20RZ9gVWsW+vd3A9lRgeTiJ39vJPoK46+9LnYGWU9dlDR1qRg4y5ILVQjEnT4el2cKSZexf7nrXHVfF3nOmHH/w/R/OSGllwUB7FCHDMc7eDY7haDYHWAQpEmcn4+BfbC4cipsdZ+nVieVVuuaWSF9s+0xYPWdSYLJMxApplTYkO+/h5z9atdURJUMGQ=="
 		},
@@ -586,7 +584,7 @@
 			"key": "悯善",
 			"name": "🐟┆悯善┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_App88",
 			"ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
 		},
@@ -594,7 +592,7 @@
 			"key": "长泽",
 			"name": "🐟┆长泽┆4K",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_App88",
 			"ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
 		},
@@ -603,7 +601,7 @@
 			"name": "🐟┆清沅┆4K",
 			"api": "csp_AppNox",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"ext": "ASjKEhQKe/DZHt0fbLID47aB3aYcWUG5aIPwrmTCgGinaSykux5CZpbz57zl1moRZGFkoEXqk7decpKNU6W/p/6OTfj3JWvZtr89yPZSxNyjJm1Il5upXQT68sXR/0WG392H71MN7Q8NC8xkSOuwAq7EfX2cuHMsiqFeCCugzAiINUiEqvboCFdXiI97C6kqqqiaQIS9d+R1r7krr5vQXWtky7XJNsiK5ACjppyTh68cbONYIcgLp5Kg5woh/wj9xmNT6mFGqF2D3j2RUaLoWYf+K1+ltBiuzZ7THWKwrnpBBig8XUAG3lXNXiFhPILyYWfr+1j/UoInhNITzJJ+SSRc88KmOk5kpch+idGzVMzHIq/bLpRRxE0iV8Qdtc2atKF9QUqPXJLrwv21Dl+nxgPEGOZ+71L+gABeQdvXO7xvyzUnd+rOidPJr1mBsfu9ySbcqHkhL5EIEQpGHwRhG/yN3Y5xj0BU+SdSxnDo+CwMC+g+WCts34c2u8h2tz7G5vuTw8QvDF23kF/BZeD2QaoCBAd3SDG9ObAichfuO1nDa938+Ul+iekNOEPtPFr6k5o+px/JJkE7MKYhekE/2JfmIkbkBHdnewJYckdM37/9EKsnAozbDyFKhfKR06Es52KtuAhGyh1B8uyfsj33qFpreAqGam8kjEHdYA0i832o0BtTU2gS3mf3NoijVH/XNmlJRuNXo9yYxdjuip4Eq4iqIgajM16MGAIJ0rumYhxJ5uJUFDlf55b9iS+DvJ8wotnBvfdINpAaeXPPlVc/1JDp1rIOw0qg2XIRAafLL7kzXnW8djs2dPSQU1+j9LIrfQ6u3k4lqUs9gRMW1JhwC/4iqimnwg0KsVValaplt+fxFHhwCCkS45uLf8BaY+UZtp5ZDffbi3Q0EDAK8F210Bzd5l8W8MokURUSj374Z7y2hAROBAAgZ8qWRrFOmBC+I+LUCm7sV4h7Mwdpe8sDAtxBhxOpBAYyV8eACQsDbnQsBvizlafy16ptRrArViG0uB1VSPqvi8gqcFD1zMl+uRo="
 		},
 		{
@@ -5904,7 +5902,7 @@
 			"key": "Buguyy",
 			"name": "🐟🐦┆布谷┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_Buguyy",
 			"searchable": 1,
 			"filterable": 1,
@@ -5914,7 +5912,7 @@
 			"key": "ChuXin",
 			"name": "🐟💕┆初心┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_ChuXin",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -5924,7 +5922,7 @@
 			"key": "aiting",
 			"name": "🐟🎧┆爱听┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_AiTingMusic",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -5934,7 +5932,7 @@
 			"key": "Music24bit",
 			"name": "🐟🎼┆无损┆[音乐]",
 			"type": 3,
-			"jar": "./moyu/fish07312045.jar;md5;325fedba2c4c08a810811e7800605532",
+			"jar": "./moyu/fish08022249.jar;md5;9ada45a2b9f084e9100aa07e8fa74fe5",
 			"api": "csp_Music24bit",
 			"searchable": 1,
 			"changeable": 1,
