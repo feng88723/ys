@@ -26,7 +26,7 @@
 			"name": "酷我音乐",
 			"type": 3,
 			"api": "csp_Qqyy",
-			"homePage": "https://d.kstore.dev/download/8699/0412/html/酷我音乐.html",
+			"homePage": "https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/html/酷我音乐.html",
 			"pic": "https://5b0988e595225.cdn.sohucs.com/images/20190609/0f56f42a3e744d35a13286a311a9f8fa.jpeg",
 			"proxy": "noproxy",
 			"chromeMode": "edge"
@@ -36,7 +36,7 @@
             "name": "音乐满血",
             "type": 3,
             "api": "csp_Qqyy",
-            "homePage": "https://d.kstore.dev/download/8699/0412/html/%E9%9F%B3%E4%B9%90%E6%BB%A1%E8%A1%80.html",
+            "homePage": "https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/html/音乐满血.html",
             "pic": "https://5b0988e595225.cdn.sohucs.com/images/20190609/0f56f42a3e744d35a13286a311a9f8fa.jpeg",
             "proxy": "noproxy",
             "chromeMode": "edge"
