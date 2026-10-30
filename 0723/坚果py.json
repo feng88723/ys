@@ -24,6 +24,293 @@
 			"changeable": 0
 		},
 		{
+			"key": "🌶luxiansheng",
+			"name": "🌶luxiansheng",
+			"type": 3,
+			"api": "./py/luxiansheng.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶maiyoux_live",
+			"name": "🌶maiyoux_live",
+			"type": 3,
+			"api": "./py/maiyoux_live.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶橙果短剧🔞",
+			"name": "🌶橙果短剧🔞",
+			"type": 3,
+			"api": "./py/橙果短剧🔞.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶avmt",
+			"name": "🌶avmt",
+			"type": 3,
+			"api": "./py/avmt.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶一个one精简版🔞",
+			"name": "🌶一个one精简版🔞",
+			"type": 3,
+			"api": "./py/一个one精简版🔞.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶aidj",
+			"name": "🌶aidj",
+			"type": 3,
+			"api": "./py/aidj.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶supjav_CF",
+			"name": "🌶supjav_CF",
+			"type": 3,
+			"api": "./py/supjav_CF.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},{
+			"key": "🌶818chiguavip",
+			"name": "🌶818chiguavip",
+			"type": 3,
+			"api": "./py/818chiguavip.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶MAXJAV",
+			"name": "🌶MAXJAV",
+			"type": 3,
+			"api": "./py/MAXJAV.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶高清无码网",
+			"name": "🌶高清无码网",
+			"type": 3,
+			"api": "./py/高清无码网.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶无码之家",
+			"name": "🌶无码之家",
+			"type": 3,
+			"api": "./py/无码之家.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶91插骚鲍",
+			"name": "🌶91插骚鲍",
+			"type": 3,
+			"api": "./py/91插骚鲍.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶骚逼研究所",
+			"name": "🌶骚逼研究所",
+			"type": 3,
+			"api": "./py/骚逼研究所.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶淫兽穴院",
+			"name": "🌶淫兽穴院",
+			"type": 3,
+			"api": "./py/淫兽穴院.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶老色批传媒",
+			"name": "🌶老色批传媒",
+			"type": 3,
+			"api": "./py/老色批传媒.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶功夫女优",
+			"name": "🌶功夫女优",
+			"type": 3,
+			"api": "./py/功夫女优.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶X片40万",
+			"name": "🌶X片40万",
+			"type": 3,
+			"api": "./py/X片40万.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶香蕉短剧",
+			"name": "🌶香蕉短剧",
+			"type": 3,
+			"api": "./py/香蕉短剧.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶91jav无码中字",
+			"name": "🌶91jav无码中字",
+			"type": 3,
+			"api": "./py/91jav无码中字.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶乱伦群",
+			"name": "🌶乱伦群",
+			"type": 3,
+			"api": "./py/乱伦群.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶人人香蕉在线视频6免费",
+			"name": "🌶人人香蕉在线视频6免费",
+			"type": 3,
+			"api": "./py/人人香蕉在线视频6免费.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶51X",
+			"name": "🌶51X",
+			"type": 3,
+			"api": "./py/51X.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶柚子短剧",
+			"name": "🌶柚子短剧",
+			"type": 3,
+			"api": "./py/柚子短剧.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶X红颜",
+			"name": "🌶X红颜",
+			"type": 3,
+			"api": "./py/X红颜.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶淫色天香",
+			"name": "🌶淫色天香",
+			"type": 3,
+			"api": "./py/淫色天香.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶蜜桃臀",
+			"name": "🌶蜜桃臀",
+			"type": 3,
+			"api": "./py/蜜桃臀.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶熟女与老头",
+			"name": "🌶熟女与老头",
+			"type": 3,
+			"api": "./py/熟女与老头.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶日本大穴",
+			"name": "🌶日本大穴",
+			"type": 3,
+			"api": "./py/日本大穴.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶少妇群",
+			"name": "🌶少妇群",
+			"type": 3,
+			"api": "./py/少妇群.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶狗头AV",
+			"name": "🌶狗头AV",
+			"type": 3,
+			"api": "./py/狗头AV.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶xn69",
+			"name": "🌶xn69",
+			"type": 3,
+			"api": "./py/xn69.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶md",
+			"name": "🌶🪜麻豆md",
+			"type": 3,
+			"api": "./py/md.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "AV",
 			"name": "AV[html]",
 			"type": 3,
