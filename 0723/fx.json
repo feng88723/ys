@@ -40,6 +40,20 @@
 			"changeable": 0
 		},
 		{
+			"key": "各大平台直播合集",
+			"name": "各大平台直播合集",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "http://d.kstore.dev/download/8699/0412/html/各大平台直播合集.html"
+		},
+		{
+			"key": "Eternity 音乐 WebHome 页 v3",
+			"name": "Eternity 音乐",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "http://d.kstore.dev/download/8699/0412/html/Eternity 音乐 WebHome 页 v3.html"
+		},
+		{
 			"key": "球赛",
 			"name": "球赛[html]",
 			"type": 3,
@@ -9866,6 +9880,36 @@
 			"type": 0,
 			"ua": "okhttp",
 			"url": "http://192.168.31.16:8767/all.m3u"
+		},
+		{
+			"name": "🐬ysplivetg",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://tv.111226.xyz/aptv/ysplive/tg@tgzby.m3u"
+		},
+		{
+			"name": "🐬livesta",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://tv.111226.xyz/aptv/livestable/tg@tgzby.m3u"
+		},
+		{
+			"name": "🐬Pandalive(免账户版)",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "http://34.50.32.64:22888/all.m3u"
+		},
+		{
+			"name": "🐬歡樂看 Fain TV",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://tv.111226.xyz/aptv/faintv/tg@tgzby.m3u"
+		},
+		{
+			"name": "🐬哔哩哔哩·音乐演唱会",
+			"type": 0,
+			"ua": "okhttp",
+			"url": "https://tv.111226.xyz/aptv/biliconcert/tg@tgzby.m3u"
 		},
 		{
 			"name": "4gtv home+live(python)",
