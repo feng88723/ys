@@ -39,7 +39,6 @@
 			"ext": "./pro/vox_webhome/ext.json",
 			"changeable": 0
 		},
-		
 		{
 			"key": "各大平台直播合集",
 			"name": "各大平台直播合集",
@@ -812,21 +811,6 @@
 			}
 		},
 		{
-			"quickSearch": 0,
-			"key": "🦕花卷4K",
-			"name": "🦕花卷 [网盘]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_Huajuan",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": {
-				"siteUrl":[
-					"https://www.hjzhencai.top/"
-				]
-			}
-		},
-		{
 			"key": "🦕renren",
 			"name": "🦕人人 [网盘]",
 			"type": 3,
@@ -1090,22 +1074,6 @@
 			"ext": {
 				"siteUrl":[
 					"https://123panfx.com"
-				]
-			}
-		},
-		{
-			"quickSearch": 0,
-			"key": "🦕guangya_community",
-			"name": "🦕鸭社 [网盘]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_GuangyaCommunity",
-			"searchable": 1,
-			"changeable": 0,
-			"timeout": 60,
-			"ext": {
-				"siteUrl":[
-					"https://www.guangya.net"
 				]
 			}
 		},
@@ -1431,54 +1399,6 @@
 					"http://38.76.197.172:16969"
 				]
 			},
-			"timeout": 60
-		},
-		{
-			"key": "鸭社",
-			"name": "⚡️|鸭社 • 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/1018.png;md5;bbb5214a2ba3724821c5f8d2db5071dc",
-			"api": "csp_PanWebShare",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"site":[
-					"http://www.guangyashe.top"
-				]
-			},
-			"timeout": 60
-		},
-		{
-			"key": "种子",
-			"name": "⚡️|种子 • 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/1018.png;md5;bbb5214a2ba3724821c5f8d2db5071dc",
-			"api": "csp_SeedHub",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"site":[
-					"https://sidhub.cc",
-					"https://seeduck.cc",
-					"https://hubdog.cc",
-					"http://104.243.25.80"
-				]
-			},
-			"timeout": 60
-		},
-		{
-			"key": "指南",
-			"name": "⚡️|指南 • 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/1018.png;md5;bbb5214a2ba3724821c5f8d2db5071dc",
-			"api": "csp_4KZhinan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
 			"timeout": 60
 		},
 		{
@@ -1982,49 +1902,6 @@
 			}
 		},
 		{
-			"key": "huaisang",
-			"name": "🐟怀桑 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_AppQi",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
-		},
-		{
-			"key": "长泽",
-			"name": "🐟长泽 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_App88",
-			"ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
-		},
-		{
-			"key": "Fishshayang",
-			"name": "🐟傻样 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_FishCloud",
-			"searchable": 1,
-			"ext": {
-				"site":[
-					"http://xsayang.fun",
-					"http://38.76.197.172:12521"
-				]
-			}
-		},
-		{
-			"key": "PianKu8",
-			"name": "🐟片库 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_PianKu8",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://qkys.qukanwh.com"
-		},
-		{
 			"key": "Wogg",
 			"name": "🐟玩偶 4K",
 			"type": 3,
@@ -2081,7 +1958,7 @@
 			"key": "哔哩合集",
 			"name": "🐟哔哩 • 合集",
 			"type": 3,
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/feng88723/ys/main/0723/moyu/fish08310415.jar;md5;01e3d12b032b87e2e1f7c278453881ce",
+			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 0,
@@ -2094,105 +1971,6 @@
 			"ext": {
 				"json": "https://gh-proxy.com/https://raw.githubusercontent.com/feng88723/ys/main/0723/moyu/哔哩合集.json",
 				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-			}
-		},
-		{
-			"key": "HonHon",
-			"name": "🐟红红 短剧",
-			"type": 3,
-			"jar": "./moyu/fish08310415.jar;md5;01e3d12b032b87e2e1f7c278453881ce",
-			"api": "csp_HonHon",
-			"searchable": 1,
-			"quickSearch": 1,
-			"genre": "shortdrama",
-			"filterable": 1,
-			"ext": {
-				"host": "https://short.fishcloud.top",
-				"quality": "1080p",
-				"danmu": false
-			}
-		},
-		{
-			"key": "FuYun",
-			"name": "🐟浮云 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_FuYun",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": "AT5gVJoBJLBjA8bGv16T3JrqN2LXBIOz+yh3i+Q62mrf39gRwFyDvBsZFicI+C39mJcLm9J7qY/293gromRPJAf+9zAbwWTtKnR5Ums7P1Q5ts6eqP1gLc/RID4P3Mia9LSNqOxWJ8U9XZRYJl6gdtnZo7oR8T8JMWvWFVZzu5pAGSlzcJxMzqaVrWaPTrC3x790BI+cfF1ogCKAwNaVQxU="
-		},
-		{
-			"key": "花信",
-			"name": "🐟花信 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_NiuLai",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": {
-				"php": "https://max.moyu666666.top/niulai.php",
-				"site": "huaxin"
-			}
-		},
-		{
-			"key": "素笺",
-			"name": "🐟素笺 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_NiuLai",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": {
-				"php": "https://max.moyu666666.top/niulai.php",
-				"site": "sujian"
-			}
-		},
-		{
-			"key": "丹青",
-			"name": "🐟丹青 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_NiuLai",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": {
-				"php": "https://max.moyu666666.top/niulai.php",
-				"site": "danqing"
-			}
-		},
-		{
-			"key": "Fishgege",
-			"name": "🐟八零 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_FishCloud",
-			"searchable": 1,
-			"ext": {
-				"site":[
-					"https://woog.nxog.eu.org",
-					"https://ogkk.nxog.eu.org",
-					"https://woog.430520.xyz"
-				]
-			}
-		},
-		{
-			"key": "Fishhuajuan",
-			"name": "🐟花卷 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_FishCloud",
-			"searchable": 1,
-			"ext": {
-				"site":[
-					"https://www.hjzhencai.top",
-					"https://www.huanjuanwp.shop"
-				]
 			}
 		},
 		{
@@ -2213,46 +1991,6 @@
 					"https://www.qnhot.com",
 					"https://www.qncool.com"
 				]
-			}
-		},
-		{
-			"key": "KanJu",
-			"name": "🐟流映 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_KanJu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"site": "https://kanju.ai",
-				"playname": "ly"
-			}
-		},
-		{
-			"key": "Luck",
-			"name": "🐟青禾 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_Luck",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://max.moyu666666.top/luck.php"
-		},
-		{
-			"key": "云岫",
-			"name": "🐟云岫 4K",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/moyu/fish1112.jar;md5;53b51f8c239b727ce4cd18dc2c3b7",
-			"api": "csp_NiuLai",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": {
-				"php": "https://max.moyu666666.top/niulai.php",
-				"site": "yunxiu"
 			}
 		},
 		{
@@ -2285,17 +2023,6 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"ext": "moWobg"
-		},
-		{
-			"name": "🐺|花卷┃4K",
-			"key": "PanHj",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/ow/1015.png;md5;4c4f8a2ce645a5539405defe99d17fa3",
-			"api": "csp_PanHjAmns",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "PanHj"
 		},
 		{
 			"name": "🐺|多多┃4K",
