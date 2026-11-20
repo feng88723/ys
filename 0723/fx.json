@@ -14,6 +14,9 @@
 			"ext": {
 				"apiUrls":[
 					"http://192.168.31.22:9321/87654321",
+					"https://dm.syemby.com/shunyingdm",
+					"https://dmk.abai.ccwu.cc/api/v1/abaibai",
+					"https://danmu.cynn.top/cynnsq",
 					"https://bks.indevs.in/usage/player-guide/fongmi",
 					"https://dm.199333.xyz/dm",
 					"https://dmk.abai.ccwu.cc/api/v1/abaibai",
@@ -30,6 +33,18 @@
 				"titleMappingsUrl": "./json/yins.json"
 			}
 		},
+		{
+      "key": "紅果",
+      "name": "紅果",
+      "type": 3,
+      "api": "./vod/hongguo.js",
+      "lang": "zh-CN",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
 		{
 			"key": "webhome",
 			"name": "Ⓜ️网页┃首页",
