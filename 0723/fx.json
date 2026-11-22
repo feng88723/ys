@@ -34,18 +34,27 @@
 			}
 		},
 		{
-      "key": "紅果",
-      "name": "紅果",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/vod/hongguo.js",
-      "lang": "zh-CN",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
+			"key": "紅果",
+			"name": "紅果",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/vod/hongguo.js",
+			"lang": "zh-CN",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"changeable": 1,
+			"timeout": 60
+		},
+		{
+			"key": "🌶红果短剧1112",
+			"name": "🌶红果短剧1112",
+			"type": 3,
+			"api": "./py/红果短剧1112.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "🌶红果短剧1116",
 			"name": "🌶红果短剧1116",
 			"type": 3,
@@ -54,7 +63,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		
 		{
 			"key": "webhome",
 			"name": "Ⓜ️网页┃首页",

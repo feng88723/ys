@@ -24,6 +24,24 @@
 			"changeable": 0
 		},
 		{
+			"key": "🌶聚果鉴",
+			"name": "🌶🪜聚果鉴",
+			"type": 3,
+			"api": "./py/聚果鉴.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "🌶红果黄剧 (1)",
+			"name": "🌶红果黄剧 (1)",
+			"type": 3,
+			"api": "./py/红果黄剧 (1).py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "🌶pigav_muse1版",
 			"name": "🌶pigav_muse1版",
 			"type": 3,
