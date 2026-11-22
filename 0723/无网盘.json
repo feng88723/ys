@@ -34,6 +34,15 @@
 			}
 		},
 		{
+			"key": "🌶红果短剧1116",
+			"name": "🌶红果短剧1116",
+			"type": 3,
+			"api": "./py/红果短剧1116.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
       "key": "紅果",
       "name": "紅果",
       "type": 3,
@@ -8418,12 +8427,13 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "mur",
-			"type": 1,
-			"url": "https://live.ottiptv.cc/iptv.m3u?userid=7888167576&sign=20b7ac127451b8218e990243628a1b42d8b596ba7956647b7311676e88f5a8228341c766ce3ff94281aa88d49d6e6a1ddb57f6e4c9ba3e62fae1ee656efecc42a329f232a38fbb&auth_token=4a569c27e7861b2f4ddfe1049482f866",
-			"ua": "qqlive",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			"key": "🌶红果短剧1116",
+			"name": "🌶红果短剧1116",
+			"type": 3,
+			"api": "./py/红果短剧1116.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"name": "supprise",
