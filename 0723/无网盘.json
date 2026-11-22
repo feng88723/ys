@@ -8153,6 +8153,14 @@
 		}
 	],
 	"lives":[
+	{
+			"name": "mur",
+			"type": 1,
+			"url": "https://mursor.ottiptv.cc/iptv.m3u?userid=7888167576&sign=1c29fde4ec5876a616fa58bf9e940ad040611f16dc8f2a752c645395e06f9c734e08f89caca8358931a5424e84024bbeeba480d95c938b6f4ea5666113179f29b6526ab6f69664&auth_token=4a569c27e7861b2f4ddfe1049482f866",
+			"ua": "qqlive",
+			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+		},
 		{
 			"name": "央視官網",
 			"url": "https://tv.cctv.com/live/",
@@ -8426,15 +8434,7 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
-		{
-			"key": "🌶红果短剧1116",
-			"name": "🌶红果短剧1116",
-			"type": 3,
-			"api": "./py/红果短剧1116.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"name": "supprise",
 			"type": 0,
