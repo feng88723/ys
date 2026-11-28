@@ -587,77 +587,7 @@
 			"filterable": 0,
 			"proxy": "noproxy"
 		},
-		
-		{
-			"changeable": 0,
-			"key": "🦕MyQuark",
-			"name": "🦕夸克 [文件]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_MyQuark",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"changeable": 0,
-			"key": "🦕mybaidu",
-			"name": "🦕百度 [文件]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_MyBaidu",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"changeable": 0,
-			"key": "🦕myuc",
-			"name": "🦕UC [文件]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_MyUc",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"changeable": 0,
-			"key": "🦕guangya",
-			"name": "🦕光鸭 [文件]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_MyGuangya",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
-			"changeable": 0,
-			"key": "🦕my115",
-			"name": "🦕115 [文件]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_My115",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
+	
 		{
 			"quickSearch": 0,
 			"key": "🦕quanpan",
@@ -671,7 +601,7 @@
 		},
 		{
 			"key": "玩偶",
-			"name": "⚡️|玩偶 • 4K",
+			"name": "🦖|玩偶 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_Wogg",
@@ -690,7 +620,7 @@
 		},
 		{
 			"key": "快映",
-			"name": "⚡️|快映 • 4K",
+			"name": "🦖|快映 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -707,7 +637,7 @@
 		},
 		{
 			"key": "木偶",
-			"name": "⚡️|木偶 • 4K",
+			"name": "🦖|木偶 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -727,7 +657,7 @@
 		},
 		{
 			"key": "蜡笔",
-			"name": "⚡️|蜡笔 • 4K",
+			"name": "🦖|蜡笔 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -748,7 +678,7 @@
 		},
 		{
 			"key": "闪电",
-			"name": "⚡️|闪电 • 4K",
+			"name": "🦖|闪电 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -765,7 +695,7 @@
 		},
 		{
 			"key": "至臻",
-			"name": "⚡️|至臻 • 4K",
+			"name": "🦖|至臻 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -784,7 +714,7 @@
 		},
 		{
 			"key": "多多",
-			"name": "⚡️|多多 • 4K",
+			"name": "🦖|多多 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -803,7 +733,7 @@
 		},
 		{
 			"key": "欧哥",
-			"name": "⚡️|欧哥 • 4K",
+			"name": "🦖|欧哥 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -823,7 +753,7 @@
 		},
 		{
 			"key": "二小",
-			"name": "⚡️|二小 • 4K",
+			"name": "🦖|二小 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -844,7 +774,7 @@
 		},
 		{
 			"key": "虎斑",
-			"name": "⚡️|虎斑 • 4K",
+			"name": "🦖|虎斑 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -861,7 +791,7 @@
 		},
 		{
 			"key": "py_油管",
-			"name": "⚡️|YOUTUBE[PY]",
+			"name": "🦖|YOUTUBE[PY]",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "./py/ytb1_m8.py",
@@ -875,7 +805,7 @@
 		},
 		{
 			"key": "人人",
-			"name": "⚡️|人人 • 4K",
+			"name": "🦖|人人 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_RenRen",
@@ -886,7 +816,7 @@
 		},
 		{
 			"key": "即刻",
-			"name": "⚡️|即刻 • 4K",
+			"name": "🦖|即刻 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_Jike",
@@ -900,7 +830,7 @@
 		},
 		{
 			"key": "双星",
-			"name": "⚡️|双星 • 4K",
+			"name": "🦖|双星 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_ShuangXing",
@@ -914,7 +844,7 @@
 		},
 		{
 			"key": "爱盼",
-			"name": "⚡️|爱盼 • 4K",
+			"name": "🦖|爱盼 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_AiPan",
@@ -925,7 +855,7 @@
 		},
 		{
 			"key": "花卷",
-			"name": "⚡️|花卷 • 4K",
+			"name": "🦖|花卷 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShareHJ",
@@ -943,7 +873,7 @@
 		},
 		{
 			"key": "八零",
-			"name": "⚡️|八零 • 4K",
+			"name": "🦖|八零 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanWebShare",
@@ -962,7 +892,7 @@
 		},
 		{
 			"key": "卡卡",
-			"name": "⚡️|卡卡 • 4K",
+			"name": "🦖|卡卡 • 4K",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_KKPan",
@@ -976,7 +906,7 @@
 		},
 		{
 			"key": "阿里云盘",
-			"name": "⚡️|阿里 • 云盘",
+			"name": "🦖|阿里 • 云盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanAli",
@@ -990,7 +920,7 @@
 		},
 		{
 			"key": "夸克网盘",
-			"name": "⚡️|夸克 • 网盘",
+			"name": "🦖|夸克 • 网盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanQuark",
@@ -1004,7 +934,7 @@
 		},
 		{
 			"key": "UC网盘",
-			"name": "⚡️|UC • 网盘",
+			"name": "🦖|UC • 网盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanUC",
@@ -1018,7 +948,7 @@
 		},
 		{
 			"key": "百度网盘",
-			"name": "⚡️|百度 • 网盘",
+			"name": "🦖|百度 • 网盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanBaidu",
@@ -1032,7 +962,7 @@
 		},
 		{
 			"key": "迅雷云盘",
-			"name": "⚡️|迅雷 • 云盘",
+			"name": "🦖|迅雷 • 云盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanXunlei",
@@ -1046,7 +976,7 @@
 		},
 		{
 			"key": "光鸭云盘",
-			"name": "⚡️|光鸭 • 云盘",
+			"name": "🦖|光鸭 • 云盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanGuangya",
@@ -1060,7 +990,7 @@
 		},
 		{
 			"key": "天翼云盘",
-			"name": "⚡️|天翼 • 云盘",
+			"name": "🦖|天翼 • 云盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanTianyi",
@@ -1074,7 +1004,7 @@
 		},
 		{
 			"key": "123云盘",
-			"name": "⚡️|123 • 云盘",
+			"name": "🦖|123 • 云盘",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_Pan123",
@@ -1088,7 +1018,7 @@
 		},
 		{
 			"key": "觅盘",
-			"name": "⚡️|觅盘 • 搜索",
+			"name": "🦖|觅盘 • 搜索",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_MiPan",
@@ -1099,7 +1029,7 @@
 		},
 		{
 			"key": "盘搜",
-			"name": "⚡️|盘搜 • 搜索",
+			"name": "🦖|盘搜 • 搜索",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_PanSou",
@@ -1110,7 +1040,7 @@
 		},
 		{
 			"key": "百酷",
-			"name": "⚡️|百酷 • 搜索",
+			"name": "🦖|百酷 • 搜索",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_Baiku",
@@ -1121,7 +1051,7 @@
 		},
 		{
 			"key": "酷乐",
-			"name": "⚡️|酷乐 • 搜索",
+			"name": "🦖|酷乐 • 搜索",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_KuLe",
@@ -1132,7 +1062,7 @@
 		},
 		{
 			"key": "鬼鬼",
-			"name": "⚡️|鬼鬼 • 搜索",
+			"name": "🦖|鬼鬼 • 搜索",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_GuiGui",
@@ -1143,7 +1073,7 @@
 		},
 		{
 			"key": "趣盘",
-			"name": "⚡️|趣盘 • 搜索",
+			"name": "🦖|趣盘 • 搜索",
 			"type": 3,
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
 			"api": "csp_QuPanSo",
@@ -1154,7 +1084,7 @@
 		},
 		{
 			"key": "果果短剧",
-			"name": "⚡️|果果 • 短剧",
+			"name": "🦖|果果 • 短剧",
 			"type": 3,
 			"jar": "./jars/新XBPQ.jar",
 			"api": "csp_XBPQ",
