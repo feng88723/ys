@@ -1,1 +1,162 @@
-{"selfKey":"webhome","sites":[{"key":"sotvla","name":"SOTVLA","type":3,"api":"csp_Builtin","homePage":"https://www.sotvla.cc/","pic":"https://www.sotvla.cc/favicon.ico","chromeMode":"edge","extensions":[{"id":"sotvla-native-enhance","name":"SOTVLA App 播放增强","version":"1.2.2","runAt":"document-start","js":["./sotvla/sotvla.js"]}]},{"key":"Yxhj","name":"游戏合集","type":3,"api":"csp_Yxhj","folder":"./html/game.json","pic":"https://gips2.baidu.com/it/u=4223283450,2506453931&fm=3074&app=3074&f=JPEG","proxy":"noproxy","chromeMode":"edge"},{"key":"XBW","name":"霸王游戏","type":3,"api":"csp_XBW","homePage":"./html/小霸王.html","pic":"https://wx4.sinaimg.cn/mw690/676f24e0ly1g26dy96mn9j20m80m8dt2.jpg","proxy":"noproxy","chromeMode":"edge"},{"key":"QQYY","name":"QQ音乐","type":3,"api":"csp_Qqyy","homePage":"./html/QQ音乐.html","pic":"https://5b0988e595225.cdn.sohucs.com/images/20190609/0f56f42a3e744d35a13286a311a9f8fa.jpeg","proxy":"noproxy","chromeMode":"edge"}]}
+{
+	"selfKey": "webhome",
+	"sites": [
+		{
+			"key": "sotvla",
+			"name": "SOTVLA",
+			"type": 3,
+			"api": "csp_Builtin",
+			"homePage": "https://www.sotvla.cc/",
+			"pic": "https://www.sotvla.cc/favicon.ico",
+			"chromeMode": "edge",
+			"extensions": [
+				{
+					"id": "sotvla-native-enhance",
+					"name": "SOTVLA App 播放增强",
+					"version": "1.2.2",
+					"runAt": "document-start",
+					"js": [
+						"./sotvla/sotvla.js"
+					]
+				}
+			]
+		},
+		{
+			"key": "Yxhj",
+			"name": "游戏合集",
+			"type": 3,
+			"api": "csp_Yxhj",
+			"folder": "./html/game.json",
+			"pic": "https://gips2.baidu.com/it/u=4223283450,2506453931&fm=3074&app=3074&f=JPEG",
+			"proxy": "noproxy",
+			"chromeMode": "edge"
+		},
+		{
+			"key": "XBW",
+			"name": "霸王游戏",
+			"type": 3,
+			"api": "csp_XBW",
+			"homePage": "./html/小霸王.html",
+			"pic": "https://wx4.sinaimg.cn/mw690/676f24e0ly1g26dy96mn9j20m80m8dt2.jpg",
+			"proxy": "noproxy",
+			"chromeMode": "edge"
+		},
+		{
+			"key": "Q音乐",
+			"name": "Q音乐",
+			"type": 3,
+			"api": "csp_XBW",
+			"homePage": "https://q-16a.pages.dev/",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"proxy": "noproxy",
+			"chromeMode": "edge"
+		},
+		{
+			"key": "QQYY",
+			"name": "QQ音乐",
+			"type": 3,
+			"api": "csp_Qqyy",
+			"homePage": "./html/QQ音乐.html",
+			"pic": "https://5b0988e595225.cdn.sohucs.com/images/20190609/0f56f42a3e744d35a13286a311a9f8fa.jpeg",
+			"proxy": "noproxy",
+			"chromeMode": "edge"
+		},
+		{
+			"key": "AppleMusicTV",
+			"name": "AppleMusicTV[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://am-4u2.pages.dev/"
+		},
+		{
+			"key": "音乐满血",
+			"name": "音乐满血[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "http://d.kstore.dev/download/8699/0412/html/%E9%9F%B3%E4%B9%90%E6%BB%A1%E8%A1%80.html"
+		},
+		{
+			"key": "酷我音乐",
+			"name": "酷我音乐[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "http://d.kstore.dev/download/8699/0412/html/酷我音乐.html"
+		},
+		{
+			"key": "各大平台直播合集",
+			"name": "各大平台直播合集[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "http://d.kstore.dev/download/8699/0412/html/各大平台直播合集.html"
+		},
+		{
+			"key": "Eternity 音乐 WebHome 页 v3",
+			"name": "Eternity 音乐[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "http://d.kstore.dev/download/8699/0412/html/Eternity 音乐 WebHome 页 v3.html"
+		},
+		{
+			"key": "漫画",
+			"name": "漫画[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://hk-bbo.pages.dev/"
+		},
+		{
+			"key": "听书",
+			"name": "听书[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://ts-agk.pages.dev/"
+		},
+		{
+			"key": "赛博",
+			"name": "🎿赛博[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://cyber.920410.xyz/"
+		},
+		{
+			"key": "pomo",
+			"name": "🎿pomo[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://pomo.920410.xyz/"
+		},
+		{
+			"key": "哔哩哔哩",
+			"name": "🎿哔哩哔哩[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://bili-1k4.pages.dev/"
+		},
+		{
+			"key": "直播聚合",
+			"name": "🎿直播聚合[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://live-a3r.pages.dev/"
+		},
+		{
+			"key": "油管",
+			"name": "🎿油管[html]",
+			"type": 3,
+			"api": "csp_Nostr",
+			"pic": "https://inews.gtimg.com/newsapp_ls/0/13763944436/0",
+			"homePage": "https://yt-cas.pages.dev/"
+		},
+		
+	]
+}
