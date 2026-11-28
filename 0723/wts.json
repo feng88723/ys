@@ -34,12 +34,12 @@
 			}
 		},
 		{
-      "key": "玩偶|html",
-      "name": "玩偶|html",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://1061077908-glitch.github.io/LaoGong.io/玩偶盘搜优化版53.0.html"
-    },
+			"key": "玩偶|html",
+			"name": "玩偶|html",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "https://1061077908-glitch.github.io/LaoGong.io/玩偶盘搜优化版53.0.html"
+		},
 		{
 			"key": "🍅kxxy",
 			"name": "🍅kxxy",
@@ -104,7 +104,6 @@
 			"changeable": 0,
 			"timeout": 30
 		},
-		
 		{
 			"key": "1咕噜咕噜",
 			"name": "1咕噜咕噜.py",
@@ -114,8 +113,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		
-		
 		{
 			"key": "qmusicTV版4.6",
 			"name": "qmusicTV版4.6[html]",
@@ -222,21 +219,6 @@
 			"homePage": "https://pomo.920410.xyz/"
 		},
 		{
-			"changeable": 0,
-			"key": "🦕ConfigCenter",
-			"name": "🦕配置 [设置]",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/sm/1119custom_spider.jar;md5;4c9f3fb4e5c208e4dbbbded0fdc1d318",
-			"api": "csp_ConfigCenter",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			}
-		},
-		{
 			"quickSearch": 0,
 			"key": "🦕玩偶4K",
 			"name": "🦕玩偶 [网盘]",
@@ -323,7 +305,6 @@
 				]
 			}
 		},
-		
 		{
 			"quickSearch": 0,
 			"key": "🦕欧哥4K",
@@ -574,7 +555,6 @@
 				]
 			}
 		},
-		
 		{
 			"key": "🦕玩偶聚合",
 			"name": "🦕玩偶聚合",
@@ -587,7 +567,6 @@
 			"filterable": 0,
 			"proxy": "noproxy"
 		},
-	
 		{
 			"quickSearch": 0,
 			"key": "🦕quanpan",
@@ -905,118 +884,6 @@
 			"timeout": 60
 		},
 		{
-			"key": "阿里云盘",
-			"name": "🦖|阿里 • 云盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_PanAli",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
-			"key": "夸克网盘",
-			"name": "🦖|夸克 • 网盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_PanQuark",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
-			"key": "UC网盘",
-			"name": "🦖|UC • 网盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_PanUC",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
-			"key": "百度网盘",
-			"name": "🦖|百度 • 网盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_PanBaidu",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
-			"key": "迅雷云盘",
-			"name": "🦖|迅雷 • 云盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_PanXunlei",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
-			"key": "光鸭云盘",
-			"name": "🦖|光鸭 • 云盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_PanGuangya",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
-			"key": "天翼云盘",
-			"name": "🦖|天翼 • 云盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_PanTianyi",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
-			"key": "123云盘",
-			"name": "🦖|123 • 云盘",
-			"type": 3,
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/feng88723/ys/refs/heads/main/0723/xs/spider.jar",
-			"api": "csp_Pan123",
-			"searchable": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "list",
-				"ratio": 1.433
-			}
-		},
-		{
 			"key": "觅盘",
 			"name": "🦖|觅盘 • 搜索",
 			"type": 3,
@@ -1093,191 +960,6 @@
 				"编码": "UTF-8",
 				"分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
 				"分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
-			}
-		},
-		{
-			"key": "csp_GuanYing",
-			"name": "😂观影┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_GuanYing",
-			"searchable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"cookie": "",
-				"filters": "./pro/json/guanying.json",
-				"sites": "https://www.xn--wcv59z.com/",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "csp_Xxzn",
-			"name": "🤑指南┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Xxzn",
-			"filterable": 1,
-			"searchable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"filters": "./pro/json/xxzn.json",
-				"sites": "https://4kzn.cc"
-			}
-		},
-		{
-			"key": "csp_QiWei",
-			"name": "🏇七味┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"timeout": 60,
-			"api": "csp_QiWei",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "csp_Wogg",
-			"name": "😁玩偶┃哥哥",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wogg",
-			"timeout": 60,
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"sites": "https://www.wogg.net,https://woggpan.888484.xyz",
-				"filters": "./json/wogg.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "木偶网盘",
-			"name": "🙄木偶┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "https://666.666291.xyz,https://www.muoua.top,https://333.333291.xyz,https://123.666291.xyz",
-				"filters": "./json/wogg2.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "蜡笔网盘",
-			"name": "😲蜡笔┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "http://tvpanpan.site,https://www.mmpanpan.site",
-				"filters": "./json/wogg2.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "闪电网盘",
-			"name": "🤑闪电┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "http://sd.sduc.site,http://shandian.blog",
-				"filters": "./json/wogg2.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "多多网盘",
-			"name": "😘多多┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "https://tv.214521.xyz,https://tv.yydsys.cc,https://pan.yydsys.de,https://yydsys.de5.net",
-				"filters": "./json/wogg2.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "欧歌网盘",
-			"name": "🤪欧歌┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "https://woog.430520.xyz,https://woog.nxog.eu.org",
-				"filters": "./json/wogg2.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "虎斑网盘",
-			"name": "🤔虎斑┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "http://38.76.197.172:16969",
-				"filters": "./json/wogg2.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "短木网盘",
-			"name": "🙄短木┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "https://duanmu.laozhangone.top",
-				"filters": "./pro/json/wogg2.json",
-				"proxy": "noproxy"
-			}
-		},
-		{
-			"key": "快映网盘",
-			"name": "😳快映┃[网盘]",
-			"type": 3,
-			"jar": "./pro/jar/vox.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": {
-				"sites": "http://38.76.197.172:12521",
-				"filters": "./pro/json/wogg2.json",
-				"proxy": "noproxy"
 			}
 		},
 		{
